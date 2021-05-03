@@ -33,17 +33,18 @@
       <body>
          <mdiv xml:id="mdiv-0000000672169419">
             <score xml:id="score-0000001036532657">
-               <scoreDef xml:id="score-0000000007495818" midi.bpm="40">
-                  <pgHead xml:id="pghead-0000001274891368"/>
+               <scoreDef xml:id="score-0000000007495818">
+                  <pgHead xml:id="pghead-0000001274891368" />
+                  <pgFoot xml:id="pgfoot-0000000654801377" />
                   <staffGrp xml:id="staffgrp-0000000499877334" bar.thru="true" symbol="brace">
-                     <label xml:id="label-0000000750455381"/>
-                     <staffDef xml:id="staffdef-0000001122742516" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="2s" meter.count="3" meter.unit="4"/>
-                     <staffDef xml:id="staffdef-0000001232583188" n="2" lines="5" clef.shape="F" clef.line="4" key.sig="2s" meter.count="3" meter.unit="4"/>
+                     <label xml:id="label-0000000750455381" />
+                     <staffDef xml:id="staffdef-0000001122742516" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="2s" meter.count="3" meter.unit="4" />
+                     <staffDef xml:id="staffdef-0000001232583188" n="2" lines="5" clef.shape="F" clef.line="4" key.sig="2s" meter.count="3" meter.unit="4" />
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000001782483959">
-                  <expansion plist="#A #B #B #C #C #D #A #B" xml:id="expansion-default"/>
-                  <expansion plist="#A #B #C #D #A #B" xml:id="expansion-minimal"/>
+                  <expansion plist="#A #B #B #C #C #D #A #B" xml:id="expansion-default" />
+                  <expansion plist="#A #B #C #D #A #B" xml:id="expansion-minimal" />
                   <section xml:id="A">
                      <measure xml:id="measure-0000000261477240" n="1">
                         <staff xml:id="staff-0000000391968876" n="1">
@@ -301,7 +302,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <sb xml:id="sb-0000000688268084"/>
+                     <sb xml:id="sb-0000000688268084" />
                      <measure xml:id="measure-0000000849196112" n="13">
                         <staff xml:id="staff-0000000474649030" n="1">
                            <layer xml:id="layer-0000000268512916" n="1">
@@ -594,7 +595,7 @@
                         </staff>
                         <slur xml:id="slur-0000000147509530" staff="1" startid="#note-0000000504676032" endid="#note-0000000006510075"/>
                      </measure>
-                     <sb xml:id="sb-0000000189970176"/>
+                     <sb xml:id="sb-0000000189970176" />
                      <measure xml:id="measure-0000000376552350" n="24">
                         <staff xml:id="staff-0000000155375220" n="1">
                            <layer xml:id="layer-0000000376474296" n="1">
@@ -900,7 +901,7 @@
                         </staff>
                         <slur xml:id="slur-0000000092332168" staff="2" startid="#note-0000000050598107" endid="#note-0000000455734278"/>
                      </measure>
-                     <sb xml:id="sb-0000000726869150"/>
+                     <sb xml:id="sb-0000000726869150" />
                      <measure xml:id="measure-0000000296767324" n="36">
                         <staff xml:id="staff-0000000173609210" n="1">
                            <layer xml:id="layer-0000000093129208" n="1">
@@ -1158,7 +1159,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000000210408759" place="between" staff="1 2" tstamp="1.000000">decresc.</dynam>
                      </measure>
-                     <sb xml:id="sb-0000000030781751"/>
+                     <sb xml:id="sb-0000000030781751" />
                      <measure xml:id="measure-0000000029602584" n="47">
                         <staff xml:id="staff-0000000419310970" n="1">
                            <layer xml:id="layer-0000000419432792" n="1">
@@ -1456,7 +1457,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000000032292660" place="above" startid="#note-0000000358491478">sf</dynam>
                      </measure>
-                     <sb xml:id="sb-0000000232858338"/>
+                     <sb xml:id="sb-0000000232858338" />
                      <measure xml:id="measure-0000000344556336" n="61">
                         <staff xml:id="staff-0000000127596114" n="1">
                            <layer xml:id="layer-0000000197459607" n="1">
@@ -1753,10 +1754,10 @@
                         </dir>
                      </measure>
                      <scoreDef xml:id="score-0000000226114668">
-                        <meterSig xml:id="meter-0000000391792533" count="3" unit="4"/>
+                        <meterSig xml:id="meter-0000000391792533" count="3" unit="4" />
                      </scoreDef>
                   </section>
-                  <pb xml:id="pb-0000000128835409"/>
+                  <pb xml:id="pb-0000000128835409" />
                   <section xml:id="C">
                      <measure xml:id="measure-0000000603159192" left="rptstart" n="71">
                         <staff xml:id="staff-0000000504421944" n="1">
@@ -1944,7 +1945,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <sb xml:id="sb-0000000826073144"/>
+                     <sb xml:id="sb-0000000826073144" />
                   </section>
                   <section xml:id="D">
                      <measure xml:id="measure-0000000083040318" n="79">
@@ -2139,7 +2140,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <sb xml:id="sb-0000000054025692"/>
+                     <sb xml:id="sb-0000000054025692" />
                      <measure xml:id="measure-0000000055935712" n="87">
                         <staff xml:id="staff-0000000232225112" n="1">
                            <layer xml:id="layer-0000000039404764" n="1">
