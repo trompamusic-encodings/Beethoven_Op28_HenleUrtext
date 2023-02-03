@@ -60,7 +60,7 @@
                               <mRest xml:id="m-0000000119502526"/>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000007155356" place="above" staff="1" tstamp="1.000000" midi.bpm="288">Allego vivace</tempo>
+                        <tempo xml:id="tempo-0000000007155356" place="above" staff="1" tstamp="1.000000" mm="100" mm.unit="2" mm.dots="1">Allego vivace</tempo>
                         <tempo xml:id="tempo-0000000016938240" place="above" staff="1" tstamp="1.000000">
                            <rend xml:id="rend-0000000203989392" halign="left" fontfam="normal" fontsize="140.00%" fontweight="normal">Scherzo</rend>
                         </tempo>
