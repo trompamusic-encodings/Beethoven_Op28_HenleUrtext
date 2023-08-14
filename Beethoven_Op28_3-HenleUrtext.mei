@@ -45,6 +45,7 @@
                <section xml:id="section-0000001782483959">
                   <expansion plist="#A #B #B #C #C #D #A #B" xml:id="expansion-default" />
                   <expansion plist="#A #B #C #D #A #B" xml:id="expansion-minimal" />
+                  <expansion plist="#A #B #B #C #C #D #A #B # B" xml:id="expansion-maximal" />
                   <section xml:id="A">
                      <measure xml:id="measure-0000000261477240" n="1">
                         <staff xml:id="staff-0000000391968876" n="1">
@@ -60,7 +61,7 @@
                               <mRest xml:id="m-0000000119502526"/>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000007155356" place="above" staff="1" tstamp="1.000000" mm="100" mm.unit="2" mm.dots="1">Allego vivace</tempo>
+                        <tempo xml:id="tempo-0000000007155356" place="above" staff="1" tstamp="1.000000" mm="132" mm.unit="2" mm.dots="1">Allego vivace</tempo>
                         <tempo xml:id="tempo-0000000016938240" place="above" staff="1" tstamp="1.000000">
                            <rend xml:id="rend-0000000203989392" halign="left" fontfam="normal" fontsize="140.00%" fontweight="normal">Scherzo</rend>
                         </tempo>
